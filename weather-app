@@ -1,3 +1,0 @@
-mkdir weather-app
-cd weather-app
-touch index.html styles.css script.js
